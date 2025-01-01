@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "633966526752",
+    "project_id": "youngest-gexchange-87w99m",
+    "storage_bucket": "youngest-gexchange-87w99m.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633966526752:android:f7dbfb264df7bf9bcfd745",
+        "android_client_info": {
+          "package_name": "com.mycompany.youngestgexchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633966526752-368ao9odp7g6rbmadfk5nn6j9r925pa3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.youngestgexchange",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "633966526752-b7f3hf4o14u7dva8m3idphgpq8tv1m67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw0H3YgT8jfPz1QM-yg1kalU3QlWMesXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633966526752-b7f3hf4o14u7dva8m3idphgpq8tv1m67.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633966526752-lfi58epjc03u4nmds05pc8gs8u4qg03k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.youngestgexchange"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
